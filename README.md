@@ -20,3 +20,4 @@ Future ideas :
 - list the best dungeons (/dstats bestdungeon)
 - make the HUD more customizable (show all time combined...),
 - display the comparaison with leaderboard as we kill the last mob.
+- Make some menu appear in a pannel menu, chat can be annoying to read
